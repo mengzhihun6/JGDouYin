@@ -291,7 +291,7 @@ NSString * const kAwemeCollectionCell  = @"AwemeCollectionCell";
         }
             break;
         case UserInfoHeaderGithubTag:
-            [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/sshiqiao/douyin-ios-objectc"]];
+            [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/mengzhihun6/JGDouYin"]];
             break;
         default:
             break;
